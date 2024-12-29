@@ -4,9 +4,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="/podey.jpeg" className="App-logo" alt="logo" />
         <p>
-          YAJU + UPEACHYA
+          This is a static page hosted on AWS S3.
         </p>
       </header>
     </div>
